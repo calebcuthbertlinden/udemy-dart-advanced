@@ -171,7 +171,7 @@
     },
     {
       "name": "pointycastle",
-      "rootUri": "file:///C:/Users/caleb5/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/pointycastle-3.3.5",
+      "rootUri": "file:///C:/Users/caleb5/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/pointycastle-3.4.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -314,7 +314,7 @@
       "languageVersion": "1.20"
     }
   ],
-  "generated": "2021-11-10T09:09:55.591623Z",
+  "generated": "2021-11-10T11:43:45.376525Z",
   "generator": "pub",
   "generatorVersion": "2.13.3"
 }

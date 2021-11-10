@@ -5,22 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b985c10-4959-4b7d-a59d-59854a1baf9e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/AsyncExamples.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/CompressionExamples.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/EncryptionExamples.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/PlatformExamples.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/socket/Server.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/socket/SocketExamples.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/pub/bin/sdk-version" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/pub/bin/test/test.dart.snapshot" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/DatabaseExamples.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/main.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/env1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/env1_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/env1_test.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,14 +34,15 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\caleb5\Documents\GitHub\udemy-dart-advanced\bin" />
+      <recent name="C:\Users\caleb5\Documents\GitHub\Dart-Advanced-1-1\bin" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\caleb5\Documents\GitHub\Dart-Advanced-1-1\bin\socket" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\caleb5\Documents\GitHub\Dart-Advanced-1-1\bin" />
-    </key>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.CompressionExamples.dart">
+  <component name="RunManager" selected="Dart Command Line App.DatabaseExamples.dart">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -91,13 +82,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AsyncExamples.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/bin/AsyncExamples.dart" />
+    <configuration name="CompressionExamples.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/CompressionExamples.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="CompressionExamples.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/bin/CompressionExamples.dart" />
+    <configuration name="DatabaseExamples.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/DatabaseExamples.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -132,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.DatabaseExamples.dart" />
         <item itemvalue="Dart Command Line App.CompressionExamples.dart" />
         <item itemvalue="Dart Command Line App.SocketExamples.dart" />
         <item itemvalue="Dart Command Line App.Server.dart" />
         <item itemvalue="Dart Command Line App.EncryptionExamples.dart" />
-        <item itemvalue="Dart Command Line App.AsyncExamples.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -158,26 +149,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1636485385255" />
-    <state width="916" height="124" key="GridCell.Tab.0.bottom" timestamp="1636534412074">
+    <state width="1877" height="247" key="GridCell.Tab.0.bottom" timestamp="1636544620482">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="125" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1636522793861" />
-    <state width="916" height="124" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1636534412074" />
-    <state width="916" height="124" key="GridCell.Tab.0.center" timestamp="1636534412074">
+    <state width="1877" height="247" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1636544620482" />
+    <state width="1877" height="149" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1636539093484" />
+    <state width="1877" height="247" key="GridCell.Tab.0.center" timestamp="1636544620482">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="125" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1636522793861" />
-    <state width="916" height="124" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1636534412074" />
-    <state width="916" height="124" key="GridCell.Tab.0.left" timestamp="1636534412074">
+    <state width="1877" height="247" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1636544620482" />
+    <state width="1877" height="149" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1636539093483" />
+    <state width="1877" height="247" key="GridCell.Tab.0.left" timestamp="1636544620482">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="125" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1636522793861" />
-    <state width="916" height="124" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1636534412074" />
-    <state width="916" height="124" key="GridCell.Tab.0.right" timestamp="1636534412074">
+    <state width="1877" height="247" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1636544620482" />
+    <state width="1877" height="149" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1636539093483" />
+    <state width="1877" height="247" key="GridCell.Tab.0.right" timestamp="1636544620482">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="125" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1636522793861" />
-    <state width="916" height="124" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1636534412074" />
+    <state width="1877" height="247" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1636544620482" />
+    <state width="1877" height="149" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1636539093483" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1636518813578">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

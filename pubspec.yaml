@@ -10,6 +10,7 @@ dependencies:
   archive: ^3.1.6
   pointycastle: ^3.3.5
   http: ^0.13.3
+#  sqljocky5: ^2.2.1
 
 dev_dependencies:
   test: ^1.17.12
